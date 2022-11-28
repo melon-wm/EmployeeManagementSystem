@@ -1,0 +1,7 @@
+# ninja log v5
+4	292	6913519995860568	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
+293	385	6913519996768146	EmployeeManagementSystem.exe	7a19dc90c11d65d
+8	293	6913519995860568	CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj	37721ecc46146697
+3	296	6913536576661881	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
+7	300	6913536576701768	CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj	19b109caac30aadf
+300	403	6913536577699318	EmployeeManagementSystem.exe	710ead0013ff4051
