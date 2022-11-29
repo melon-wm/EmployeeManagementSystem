@@ -2,6 +2,8 @@
 #include "workerManager.h"
 #include "Worker.h"
 #include "employee.h"
+#include "manager.h"
+#include "boss.h"
 //命名空间区
 using namespace std;
 //宏定义区
@@ -9,9 +11,19 @@ using namespace std;
 //函数定义区
 using namespace std;
 int main() {
-    Worker* worker = NULL;
-    worker  = new Employee(1,"张三",1);
-    worker->showInfo();
+    //测试代码
+//    Worker* worker = NULL;
+//    worker  = new Employee(1,"张三",1);
+//    worker->showInfo();
+//    delete(worker);
+//
+//    worker = new Manager(2,"李四",2);
+//    worker->showInfo();
+//    delete(worker);
+//
+//    worker = new Boss(3,"王五",3);
+//    worker->showInfo();
+//    delete(worker);
     //实例化管理者对象
     WorkerManager wm;
     int choice;
@@ -24,6 +36,7 @@ int main() {
                 wm.ExitSystem();
                 break;
             case 1:
+                wm.Add_Emp();
                 break;
             case 2:
                 break;

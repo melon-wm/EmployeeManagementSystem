@@ -3,4 +3,4 @@ project(EmployeeManagementSystem)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(EmployeeManagementSystem main.cpp workerManager.cpp workerManager.h employee.h Worker.h employee.cpp)
+add_executable(EmployeeManagementSystem main.cpp workerManager.cpp workerManager.h employee.h Worker.h employee.cpp manager.cpp manager.h boss.cpp boss.h)

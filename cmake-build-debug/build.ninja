@@ -67,6 +67,18 @@ build CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj: CXX_COMPILER__Em
   OBJECT_DIR = CMakeFiles\EmployeeManagementSystem.dir
   OBJECT_FILE_DIR = CMakeFiles\EmployeeManagementSystem.dir
 
+build CMakeFiles/EmployeeManagementSystem.dir/manager.cpp.obj: CXX_COMPILER__EmployeeManagementSystem_Debug C$:/Users/wangmeng/CLionProjects/EmployeeManagementSystem/manager.cpp || cmake_object_order_depends_target_EmployeeManagementSystem
+  DEP_FILE = CMakeFiles\EmployeeManagementSystem.dir\manager.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\EmployeeManagementSystem.dir
+  OBJECT_FILE_DIR = CMakeFiles\EmployeeManagementSystem.dir
+
+build CMakeFiles/EmployeeManagementSystem.dir/boss.cpp.obj: CXX_COMPILER__EmployeeManagementSystem_Debug C$:/Users/wangmeng/CLionProjects/EmployeeManagementSystem/boss.cpp || cmake_object_order_depends_target_EmployeeManagementSystem
+  DEP_FILE = CMakeFiles\EmployeeManagementSystem.dir\boss.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\EmployeeManagementSystem.dir
+  OBJECT_FILE_DIR = CMakeFiles\EmployeeManagementSystem.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target EmployeeManagementSystem
@@ -75,7 +87,7 @@ build CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj: CXX_COMPILER__Em
 #############################################
 # Link the executable EmployeeManagementSystem.exe
 
-build EmployeeManagementSystem.exe: CXX_EXECUTABLE_LINKER__EmployeeManagementSystem_Debug CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj
+build EmployeeManagementSystem.exe: CXX_EXECUTABLE_LINKER__EmployeeManagementSystem_Debug CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj CMakeFiles/EmployeeManagementSystem.dir/manager.cpp.obj CMakeFiles/EmployeeManagementSystem.dir/boss.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\EmployeeManagementSystem.dir

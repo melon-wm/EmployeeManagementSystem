@@ -1,7 +1,19 @@
 # ninja log v5
-4	292	6913519995860568	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
-293	385	6913519996768146	EmployeeManagementSystem.exe	7a19dc90c11d65d
-8	293	6913519995860568	CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj	37721ecc46146697
 3	296	6913536576661881	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
-7	300	6913536576701768	CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj	19b109caac30aadf
 300	403	6913536577699318	EmployeeManagementSystem.exe	710ead0013ff4051
+7	300	6913536576701768	CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj	19b109caac30aadf
+8	293	6913519995860568	CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj	37721ecc46146697
+11	484	6914357995037255	CMakeFiles/EmployeeManagementSystem.dir/manager.cpp.obj	dde4177c5e5af9d5
+3	486	6914357995037255	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
+7	489	6914357995037255	CMakeFiles/EmployeeManagementSystem.dir/boss.cpp.obj	9314c6abe421168e
+489	847	6914357998698513	EmployeeManagementSystem.exe	c0b8e60c8e2f1dd7
+3	310	6914378125833465	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
+7	319	6914378125983055	CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj	37721ecc46146697
+319	428	6914378127050203	EmployeeManagementSystem.exe	c0b8e60c8e2f1dd7
+3	282	6914378818799469	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
+282	385	6914378819796497	EmployeeManagementSystem.exe	c0b8e60c8e2f1dd7
+3	292	6914380189335492	CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj	37721ecc46146697
+292	392	6914380190302938	EmployeeManagementSystem.exe	c0b8e60c8e2f1dd7
+3	312	6914387815119879	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	d3e27abb6db41cd8
+26	337	6914387815379191	CMakeFiles/EmployeeManagementSystem.dir/workerManager.cpp.obj	37721ecc46146697
+337	443	6914387816396464	EmployeeManagementSystem.exe	c0b8e60c8e2f1dd7
